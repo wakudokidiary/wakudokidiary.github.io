@@ -87,7 +87,7 @@ li {
   height:405px;
   background-color:red;
   /* background-image: url(file:///Users/shunki/Desktop/MyPortforio/ホームページ写真/02.jpg); */
-  background-image: url(./02.jpg);
+  background-image: url('./02.jpg');
   background-size: cover;
 }
 
@@ -97,7 +97,7 @@ li {
   height:405px;
   background-color:blue;
   /* background-image: url(file:///Users/shunki/Desktop/MyPortforio/ホームページ写真/03.jpg); */
-  background-image: url(./03.jpg);
+  background-image: url('./03.jpg');
   background-size: cover;
 }
 
