@@ -87,7 +87,7 @@ li {
   height:405px;
   background-color:red;
   /* background-image: url(file:///Users/shunki/Desktop/MyPortforio/ホームページ写真/02.jpg); */
-  background-image: url('./02.jpg');
+  background-image: url('./02.JPG');
   background-size: cover;
 }
 
