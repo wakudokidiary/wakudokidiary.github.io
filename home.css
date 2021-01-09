@@ -21,7 +21,7 @@ a {
   height:420px;
   padding: 130px 0 200px 0;
   /* background-image: url(file:///Users/shunki/Desktop/MyPortforio/ホームページ写真/01.jpg); */
-  background-image: url(./01.jpg);
+  background-image: url(”./01.jpg”);
   background-size: cover;
   color: white;
   text-align: center;
