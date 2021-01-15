@@ -1,0 +1,199 @@
+@media (max-width: 670px) {
+
+  * {
+    box-sizing:border-box;
+  }
+  
+  
+  .box1 {
+    background-color:red;
+    width:100%;
+    height:300px;
+    /* background-image: url(file:///Users/shunki/Desktop/MyPortforio/ホームページ写真/01.jpg); */
+    background-image: url('./01.JPG');
+    background-size:cover;
+    color:white;
+    text-align:center;
+  }
+  
+  .box1 h1 {
+    padding-top:90px;
+    font-size:50px;
+  }
+  
+  header {
+    background-color:#800000;
+    width:100%;
+    height:60px;
+  }
+  
+  ul {
+    margin:0 auto;
+    width:350px;
+  }
+  
+  li {
+    float:left;
+    list-style:none;
+    padding:6px 10px;
+    font-size:12px;
+    color:white;
+    width:100px;
+  }
+  
+  .box2 {
+    /* background-color:pink; */
+    width:100%;
+    height:930px;
+    text-align:center;
+  }
+  
+  .box2 h2 {
+    font-size:20px;
+    padding-top:100px;
+    padding-bottom:10px;
+    margin:0px 140px;
+    border-bottom:2px solid black;
+  }
+  
+  .box2 p {
+    font-size:10px;  
+    padding-top:40px;
+    padding-bottom:30px;
+    line-height:35px;
+  }
+  
+  .image-left {
+    width:100%;
+    height:250px;
+    /* background-color:lawngreen; */
+  }
+  
+  .image-left img {
+    width:360px;
+    height:202.5px;
+  }
+  
+  .image-right {
+    width:100%;
+    height:250px;
+    /* background-color:black; */
+  }
+  
+  .image-right img {
+    width:360px;
+    height:202.5px;
+  }
+  
+  .box3 {
+    /* background-color:blue; */
+    width:100%;
+    height:1250px;
+    text-align:center;
+  }
+  
+  .box3 h2 {
+    font-size:20px;
+    padding-top:100px;
+    padding-bottom:10px;
+    margin:0px 140px;
+    border-bottom:2px solid black;
+  }
+  
+  .member {
+    float:left;
+    position:relative;
+    padding:0px 28px;
+    width:100%;
+  }
+  
+  .member img {
+    width:230px;
+    height:230px;
+  }
+  
+  .member .name {
+    position:absolute;
+    top:220px;
+    left:260px;
+    /* background-color:lawngreen; */
+  }
+  
+  .box3 .box3-text {
+    font-size:10px;  
+    padding-top:40px;
+    padding-bottom:30px;
+    line-height:35px;
+  }
+  
+  .box4 {
+    /* background-color:red; */
+    width:100%;
+    height:600px;
+    text-align:center;
+  }
+  
+  .box4 h2 {
+    font-size:20px;
+    padding-top:100px;
+    padding-bottom:10px;
+    margin:0px 140px;
+    border-bottom:2px solid black;
+  }
+  
+  .box4 p {
+    font-size:10px;  
+    padding-top:40px;
+    padding-bottom:10px;
+    line-height:35px;
+  }
+  
+  .box4 img {
+    width:100px;
+    height:100px;
+  }
+  
+  footer {
+    background-color:#ffa500;
+    width:100%;
+    height:220px;
+  }
+  
+  footer img {
+    float:left;
+    margin:20px 8px;
+    width:23px;
+    height:25px;
+  }
+  
+  .info p {
+    margin:2px 15px;
+    font-size:10px;
+  }
+  
+  .info .name {
+    font-size:20px;
+    margin:0px 20px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  
