@@ -36,6 +36,8 @@ li {
   color:white;
 }
 
+
+
 .box2 {
   /* background-color:pink; */
   width:100%;
@@ -219,7 +221,3 @@ footer a {
 }
 
 
-#line:hover {
-	transform: scale(1.5);	/*画像の拡大率*/
-	transition-duration: 0.3s;	/*変化に掛かる時間*/
-}
