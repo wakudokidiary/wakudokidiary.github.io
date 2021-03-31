@@ -19,8 +19,8 @@
     background-color:red;
     width:100%;
     height:500px;
-    background-image: url(file:///Users/shunki/Desktop/MyPortforio/ホームページ写真/01.jpg);
-    /* background-image: url('./01.JPG'); */
+    /* background-image: url(file:///Users/shunki/Desktop/MyPortforio/ホームページ写真/01.jpg); */
+    background-image: url('./01.JPG');
     background-size:cover;
     color:white;
     text-align:center;
