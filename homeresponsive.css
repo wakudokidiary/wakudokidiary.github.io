@@ -213,7 +213,7 @@
     font-size:80px;
     padding-top:100px;
     padding-bottom:10px;
-    margin:0px 110px;
+    margin:0px 80px;
     border-bottom:2px solid black;
   }
 
@@ -223,6 +223,11 @@
     padding-top:40px;
     padding-bottom:10px;
     line-height:80px;
+  }
+
+  .click {
+    color:#f08080; 
+    font-weight:bold;
   }
 
   
